@@ -1,0 +1,1 @@
+longitude,latitude,date,min_temp,max_temp,mean_temp
